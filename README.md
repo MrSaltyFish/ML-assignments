@@ -28,8 +28,3 @@ Each assignment targets a specific algorithm, and includes clean code + results.
 - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, etc.
 - Version controlled via Git + GitHub
 - Structure: modular
-
-## 📈 Why This Matters (Business View)
-- **Data-driven decisions**: Harness ML models to drive revenue (e.g., predictive marketing) and cut waste (e.g., unnecessary ads)  
-- **Scalable architecture**: Each practical is designed as reusable component — can be pivoted into a micro-service 
-- **Portfolio & credibility**: Demonstrates you’re not just code-deep, but business-aware — appealing to stakeholders, investors, or enterprise-buyers
